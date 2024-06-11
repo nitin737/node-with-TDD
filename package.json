@@ -1,6 +1,7 @@
 {
   "name": "node-starter",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "start": "ts-node .",
     "start:watch": "ts-node-dev .",
