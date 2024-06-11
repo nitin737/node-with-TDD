@@ -1,7 +1,6 @@
-//import { add } from '../sample';
 
 describe('Hello TO TDD', () => {
-  it('should add two numbers correctly', () => {
+  it('test', () => {
     console.log('Write your test');
   });
 });
